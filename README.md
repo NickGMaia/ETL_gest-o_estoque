@@ -58,7 +58,7 @@ O arquivo `movimentacao_estoque.csv` deve conter as seguintes colunas:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/NickGMaia/ETL_gestão_estoque.git
+git clone https://github.com/NickGMaia/ETL_gest-o_estoque.git
 cd seu-repositorio
 ```
 

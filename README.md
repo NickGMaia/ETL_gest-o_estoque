@@ -140,8 +140,3 @@ O arquivo `.pptx` gerado contém os seguintes slides:
 - [ ] Envio automático do relatório por e-mail ao final da execução
 - [ ] Adicionar testes unitários para as transformações
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
